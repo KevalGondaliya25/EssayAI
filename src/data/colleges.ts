@@ -1,0 +1,23 @@
+// List of top US colleges
+export const colleges = [
+  'Harvard University',
+  'Stanford University',
+  'Massachusetts Institute of Technology',
+  'Yale University',
+  'Princeton University',
+  'California Institute of Technology',
+  'Columbia University',
+  'Johns Hopkins University',
+  'University of Pennsylvania',
+  'Northwestern University',
+  'Duke University',
+  'Dartmouth College',
+  'Brown University',
+  'Vanderbilt University',
+  'Rice University',
+  'Cornell University',
+  'University of Chicago',
+  'University of Notre Dame',
+  'University of California, Berkeley',
+  'University of California, Los Angeles',
+].sort();
